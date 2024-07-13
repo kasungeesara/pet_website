@@ -1,0 +1,28 @@
+@charset "utf-8";
+section .row .col-lg-6 {
+    font-size: 20px;
+    font-style: italic;
+    color: #F7DCDD;
+}
+.container-fluid h2 {
+    color: #E78F91;
+}
+.container-fluid {
+	background-image: -webkit-linear-gradient(270deg,rgba(35,73,143,1.00) 0%,rgba(144,145,148,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(35,73,143,1.00) 0%,rgba(144,145,148,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(35,73,143,1.00) 0%,rgba(144,145,148,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(35,73,143,1.00) 0%,rgba(144,145,148,1.00) 100%);
+}
+.container center h1 {
+    color: #E17F81;
+}
+
+
+
+
+.container-fluid footer {
+	background-color: #3E3A4F;
+    color: #EEE2E2;
+	font-style: italic;
+	font-size:16px;
+}
